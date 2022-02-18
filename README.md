@@ -4,10 +4,10 @@
 
 ### Features
 
-- Overlook 10 diffrent users,
+- Overlook 10 different users,
 - Choose your favourites by clicking the star
 - See the users favourite albums
-- And the photos including in the albums.
+- And the photos included in the albums.
 - Leaving breadcrumbs
 - Open modal to get a closer look of each photo.
 
